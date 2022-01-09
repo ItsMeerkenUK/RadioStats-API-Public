@@ -239,4 +239,24 @@
             "listeners_data": "listeners"
         }
     }
+    {
+	"id": "12",
+	"name": "TruckersFM",
+	"shortcode": "tfm",
+	"aliases": ["TFM"],
+	"stream": "https://live.truckers.fm",
+	"website": "https://truckers.fm",
+	"logo": "https://i.imgur.com/zfh3pNn.png",
+	"hex": "#b9227a",
+	"api": {
+		"url": "https://xonos.tools/radiostats/tfm",
+		"song": "stats.song.now",
+		"song_title": "title",
+		"song_artist": "artist",
+		"dj": "stats.presenter.now",
+		"dj_name": "user.name",
+		"listeners": "N/A",
+		"listeners_data": "N/A"
+	}
+}
 ]
